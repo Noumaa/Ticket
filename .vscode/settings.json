@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "ESX",
+        "MySQL",
+        "lib",
+        "cache"
+    ]
+}
