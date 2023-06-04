@@ -18,6 +18,7 @@ client_script {
 server_script {
     '@oxmysql/lib/MySQL.lua',
     'server/main.lua',
+    'server/commands/link.lua',
     'server/commands/report_list.lua',
     'server/commands/report.lua',
 }

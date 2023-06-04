@@ -12,4 +12,5 @@ RegisterCommand('report', function(source, args)
     end
 
     TriggerClientEvent("tickets:open_report", source, options)
+
 end, false)
